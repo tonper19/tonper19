@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tony Pérez</h1>
 <h3 align="center">I'm a Business Intelligence developer</h3>
 
-- 🔭 I’m currently working on [WBSC Europe Baseball and Softball Sabermetrics Application](https://github.com/tonper19/ballgame)
+- 🔭 I’m currently working on [Diamond Core](https://360.ballgamemetrics.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
