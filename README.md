@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tony Pérez</h1>
 <h3 align="center">I'm a Business Intelligence developer</h3>
 
-- 🔭 I’m currently working on [Diamond Core](https://360.ballgamemetrics.com/)
+- 🔭 I’m currently working on [Diamond Core](https://fcbs.diamondcore.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
